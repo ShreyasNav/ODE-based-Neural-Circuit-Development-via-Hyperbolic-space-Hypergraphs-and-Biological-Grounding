@@ -4,7 +4,7 @@
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.x-EE4C2C?logo=pytorch)](https://pytorch.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![GSoC](https://img.shields.io/badge/GSoC-2025-red?logo=google)](https://summerofcode.withgoogle.com)
+[![GSoC](https://img.shields.io/badge/GSoC-2026-red?logo=google)](https://summerofcode.withgoogle.com)
 
 > **GSoC 2025 Proposal Repository** — Shreyas Navsalkar, IIT Madras  
 > Organisation: Open Worm Foundation / INCF

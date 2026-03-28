@@ -60,7 +60,6 @@ Four components feed into a single hybrid Neural ODE on the Poincaré ball:
 | **GAT + lineage hybrid ODE (full)** | **0.841** | 0.059 |
 
 Held-out evaluation on Stage 4 (trained on stages 1,2,3,5,6,7,8):  
-TP = 622 · FP = 1994 · FN = 534 · F₁ = 0.330  
 Within-training AUC = 0.849 · generalisation gap Δ = 0.008
 
 ### Lineage Hyperedge Analysis
